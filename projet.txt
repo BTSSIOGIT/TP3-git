@@ -1,4 +1,1 @@
 V1
-V2 ajout feature 2
-3 - bug
-4 - fix raté
