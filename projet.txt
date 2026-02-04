@@ -1,1 +1,6 @@
 V1
+<<<<<<< HEAD
+=======
+V2 ajout feature 2
+3 - bug
+>>>>>>> parent of 825fbaf (ajout 4 fix)
